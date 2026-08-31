@@ -1,0 +1,12 @@
+{
+    "default_enabled": "False",
+    "type": "extension",
+    "rocket_mode_compatible": "True",
+    "name": "PyTest",
+    "description": "Some of thee best tools evevr made...",
+    "author": "Aaron Rumple, AIA",
+    "author_profile": "https://github.com/aaronrumple",
+    "url": "https://github.com/aaronrumple/pyTest",
+    "website": "https://aaronrumple.io",
+    "dependencies": []
+}
