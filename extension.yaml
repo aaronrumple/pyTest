@@ -1,3 +1,5 @@
+type: extension
+rocket_mode_compatible: true
 name: pyTest
 description: Just a simple test extension.
 author: Aaron Rumple, AIA
